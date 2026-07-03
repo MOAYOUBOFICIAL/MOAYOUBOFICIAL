@@ -2,6 +2,10 @@
 
 **Python Developer | Full Stack | Automation & AI Tools**
 
+📍 Goiânia, Goiás, Brasil  
+🌐 [ayoubhosting.com](https://ayoubhosting.com/)  
+📧 contato@ayoubhosting.com
+
 ---
 
 #### 🔧 About Me
@@ -38,7 +42,9 @@
 
 #### 📫 Contact
 
-- GitHub: [@MOAYOUBOFICIAL](https://github.com/MOAYOUBOFICIAL)
+- 🌐 Website: [ayoubhosting.com](https://ayoubhosting.com/)
+- 📧 Email: contato@ayoubhosting.com
+- 💼 GitHub: [@MOAYOUBOFICIAL](https://github.com/MOAYOUBOFICIAL)
 
 ---
 
